@@ -58,10 +58,10 @@
 		2FA9793A24D58ACE00B41204 /* Window-shopper */ = {
 			isa = PBXGroup;
 			children = (
-				2FA9795024D58C2500B41204 /* View */,
-				2FA9794F24D58B7A00B41204 /* Controller */,
 				2FA9793B24D58ACE00B41204 /* AppDelegate.swift */,
 				2FA9793D24D58ACE00B41204 /* SceneDelegate.swift */,
+				2FA9795024D58C2500B41204 /* View */,
+				2FA9794F24D58B7A00B41204 /* Controller */,
 				2FA9794124D58ACE00B41204 /* Main.storyboard */,
 				2FA9794424D58AD100B41204 /* Assets.xcassets */,
 				2FA9794624D58AD100B41204 /* LaunchScreen.storyboard */,
