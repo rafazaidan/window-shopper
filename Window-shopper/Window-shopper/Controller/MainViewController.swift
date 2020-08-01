@@ -22,6 +22,7 @@ class MainViewController: UIViewController {
         calculateButton.setTitleColor(#colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0), for: .normal)
         calculateButton.addTarget(self, action: #selector(performCalculation), for: .touchUpInside)
         
+        
         hourlyWageTextField.inputAccessoryView = calculateButton
         priceTextField.inputAccessoryView = calculateButton
     }

@@ -8,11 +8,11 @@
 
 import UIKit
 
-@IBDesignable
-class CurrencyTextField: UITextField {
+@IBDesignable class CurrencyTextField: UITextField {
     
     override class func prepareForInterfaceBuilder() {
         super.prepareForInterfaceBuilder()
+        
     }
     
     override func awakeFromNib() {
